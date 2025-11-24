@@ -33,9 +33,10 @@ div{
     margin: 10px 400px 10px 400px;
     padding-top: 30px;
     padding-bottom: 30px;
-    
+    border-radius: 5px
 }
 h2{
     margin: 5px;
 }
+
 
